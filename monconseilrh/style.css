@@ -1,0 +1,57 @@
+/*
+Theme Name: monconseilRH
+Author:       enirevescode
+Author URI:   https://enirevescode.fr
+version: 1.2
+Template: astra
+*/
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.elementor-114 .elementor-element.elementor-element-895ba1b > .elementor-element-populated {
+ text-align:right;
+ }
+
+button#wpforms-submit-1523.wpforms-submit {
+	
+	color: #264e86;
+	background: #ffffff;
+	border-radius: 20px;
+	border: 0.5px solid black;
+	padding-top: 13px;
+	padding-right: 24px;
+	padding-bottom: 13px;
+	padding-left: 24px;
+	font-size: 17px;
+	
+}
+
+button#wpforms-submit-1523.wpforms-submit:hover {
+	color: #264e86;
+	background: #3498db;
+}
+
+.wpforms-title {
+	text-align: center;
+	font-size: 20px;
+}
+
+.elementor-button-text {
+	color: #264e86;
+	background: #ffffff;
+	border-radius: 20px;
+	border: 0.5px solid black;
+	padding-top: 13px;
+	padding-right: 24px;
+	padding-bottom: 13px;
+	padding-left: 24px;
+	font-size: 17px;
+}
+
+.elementor-button-text:hover {
+	color: #264e86;
+	background: #3498db;
+}
